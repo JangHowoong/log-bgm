@@ -8,6 +8,14 @@
       "mood": "차분 · 잔잔",
       "attribution": "Pixabay Music (CC0)",
       "sizeBytes": 2236081
+    },
+    {
+      "id": "alexgrohl-motivation-sport-rock-trailer",
+      "displayName": "Motivation sport rock",
+      "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/alexgrohl-motivation-sport-rock-trailer.mp3",
+      "mood": "신남",
+      "attribution": "Pixabay Music",
+      "sizeBytes": 4104359
     }
   ]
 }
