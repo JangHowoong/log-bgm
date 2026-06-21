@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "calm_morning",
+      "displayName": "잔잔한 아침",
+      "url": "https://cdn.jsdelivr.net/gh/<user>/<repo>@main/bgm/calm_morning.mp3",
+      "mood": "차분 · 잔잔",
+      "attribution": "Pixabay Music (CC0)",
+      "sizeBytes": 2236081
+    }
+  ]
+}
