@@ -24,6 +24,14 @@
       "mood": "조용하고 포근한",
       "attribution": "",
       "sizeBytes": 1447815
+    },
+    {
+      "id": "everyday_glow",
+      "displayName": "Everyday Glow",
+      "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/everyday_glow.mp3",
+      "mood": "밝은 일상(산책,카페)",
+      "attribution": "",
+      "sizeBytes": 1644100
     }
   ]
 }
