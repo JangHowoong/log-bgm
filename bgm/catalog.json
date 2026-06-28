@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "tracks": [
     {
       "id": "sunny_pocket",
@@ -13,7 +13,7 @@
       "id": "pocket_sunrise",
       "displayName": "Pocket Sunrise",
       "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/pocket_sunrise.mp3",
-      "mood": "밝고 따뜻한",
+      "mood": "따뜻한",
       "attribution": "",
       "sizeBytes": 1495612
     },
