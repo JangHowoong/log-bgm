@@ -2,20 +2,28 @@
   "version": 2,
   "tracks": [
     {
-      "id": "calm_morning",
-      "displayName": "잔잔한 아침",
-      "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/calm_morning.mp3",
-      "mood": "차분 · 잔잔",
-      "attribution": "Pixabay Music (CC0)",
-      "sizeBytes": 2236081
-    },
-    {
-      "id": "sunny_pocket_vlog",
+      "id": "sunny_pocket",
       "displayName": "Sunny Pocket",
       "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/sunny_pocket_vlog.mp3",
       "mood": "밝은 브이로그",
       "attribution": "",
       "sizeBytes": 1504069
+    },
+    {
+      "id": "pocket_sunrise",
+      "displayName": "Pocket Sunrise",
+      "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/pocket_sunrise.mp3",
+      "mood": "밝고 따뜻한",
+      "attribution": "",
+      "sizeBytes": 1495612
+    },
+    {
+      "id": "soft_window",
+      "displayName": "Soft Window",
+      "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/soft_window.mp3",
+      "mood": "조용하고 포근한",
+      "attribution": "",
+      "sizeBytes": 1447815
     }
   ]
 }
