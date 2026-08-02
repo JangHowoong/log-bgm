@@ -2,6 +2,14 @@
   "version": 7,
   "tracks": [
     {
+      "id": "evening_glow",
+      "displayName": "Evening Glow",
+      "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/evening_glow.mp3",
+      "mood": "잔잔한 저녁",
+      "attribution": "",
+      "sizeBytes": 1921981
+    },
+    {
       "id": "sunny_moments",
       "displayName": "Sunny Moments",
       "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/sunny_moments.mp3",
