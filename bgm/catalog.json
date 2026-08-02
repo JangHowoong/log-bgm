@@ -2,6 +2,14 @@
   "version": 6,
   "tracks": [
     {
+      "id": "sunny_little_moments",
+      "displayName": "Sunny Little Moments",
+      "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/sunny_moments_loop.m4a",
+      "mood": "밝고 따뜻한 일상",
+      "attribution": "",
+      "sizeBytes": 1966184
+    },
+    {
       "id": "cozy_mellow",
       "displayName": "Cozy Mellow",
       "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/cozy-mellow-lo-fi.wav",
