@@ -18,14 +18,6 @@
       "sizeBytes": 1921947
     },
     {
-      "id": "cozy_mellow",
-      "displayName": "Cozy Mellow",
-      "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/cozy-mellow-lo-fi.wav",
-      "mood": "산책",
-      "attribution": "",
-      "sizeBytes": 9616880
-    },
-    {
       "id": "sunny_pocket",
       "displayName": "Sunny Pocket",
       "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/sunny_pocket_vlog.mp3",
