@@ -2,20 +2,20 @@
   "version": 7,
   "tracks": [
     {
+      "id": "sunny_moments",
+      "displayName": "Sunny Moments",
+      "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/sunny_moments.mp3",
+      "mood": "밝고 따뜻한 일상",
+      "attribution": "",
+      "sizeBytes": 1921947
+    },
+    {
       "id": "cozy_mellow",
       "displayName": "Cozy Mellow",
       "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/cozy-mellow-lo-fi.wav",
       "mood": "산책",
       "attribution": "",
       "sizeBytes": 9616880
-    },
-    {
-      "id": "sunny_moments",
-      "displayName": "Sunny Moments",
-      "url": "https://cdn.jsdelivr.net/gh/JangHowoong/log-bgm@main/bgm/sunny_moments_loop.mp3",
-      "mood": "밝고 따뜻한 일상",
-      "attribution": "",
-      "sizeBytes": 1921947
     },
     {
       "id": "sunny_pocket",
